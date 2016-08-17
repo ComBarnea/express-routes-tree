@@ -1,0 +1,32 @@
+{
+  "name": "express-routes-tree",
+  "version": "0.0.2",
+  "description": "Simple node module to print all expressjs routes, CRUD style.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComBarnea/express-routes-tree.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "node",
+    "route",
+    "tree"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComBarnea/express-routes-tree/issues"
+  },
+  "homepage": "https://github.com/ComBarnea/express-routes-tree#readme",
+  "dependencies": {
+    "tree-printer": "^1.1.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.0",
+    "jsonfile": "^2.3.1"
+  }
+}
