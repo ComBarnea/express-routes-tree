@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ComBarnea/express-routes-tree#readme",
   "dependencies": {
-    "tree-printer": "^1.1.0"
+    "treeify": "^1.0.1"
   },
   "devDependencies": {
     "express": "^4.14.0",
